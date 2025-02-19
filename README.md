@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ### 1. Edit GPT-J (6B) model on Counterfact dataset using CoME
 
 ```
-python evaluate.py --alg_name COME_MEMIT --model_name EleutherAI/gpt-j-6B --hparams_fname EleutherAI_gpt-j-6B.json --ds_name mcf --num_edits 1 --dataset_size_limit 10
+python evaluate.py --alg_name COME_MEMIT --model_name EleutherAI/gpt-j-6B --hparams_fname EleutherAI_gpt-j-6B.json --ds_name mcf --num_edits 1
 ```
 
 ### 2. Summarize the results
