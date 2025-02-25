@@ -30,5 +30,13 @@ Our code is based on  [``PMET``](https://github.com/xpq-tech/PMET).
 ## Citation
 
 ```
-
+@misc{jung2025comeunlearningbasedapproachconflictfree,
+      title={CoME: An Unlearning-based Approach to Conflict-free Model Editing}, 
+      author={Dahyun Jung and Jaehyung Seo and Jaewook Lee and Chanjun Park and Heuiseok Lim},
+      year={2025},
+      eprint={2502.15826},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.15826}, 
+}
 ```
